@@ -49,6 +49,14 @@ vim /etc/ansible/hosts
 ```
 
 
+####  hosts文件验证
+```
+ansible-inventory --list -y
+
+```
+
+
+
 
 ##  测试
 
