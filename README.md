@@ -75,6 +75,12 @@ ansible all -m shell -a '/bin/echo hello ansible'
 
 
 
+# Playbook
+
+```
+ansible-playbook     hello-world.yml
+
+```
 
 
 
